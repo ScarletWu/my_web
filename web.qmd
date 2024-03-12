@@ -4,23 +4,85 @@ author: "Scarlet"
 format: html
 ---
 
-## Quarto
+# EDUCATION
+University of Toronto
+Sep 2023 – Jun 2024 
+Bachelor of Science (Honours)
+Physiology Specialist and Statistic Minor
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# TECHNICAL SKILLS
+## Software: 
+SQL, Python, R Studio, Power BI, and Prism Graphpad.
 
-## Running Code
+## Lab Techniques: 
+Western blots, bacterial culture, immune cell isolations, animal tissue histology, cytotoxicity (LDH assay), immunofluorescent staining, organ injury scoring, virology, genetics and sequence design, bioinformatics. 
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
-```{r}
-1 + 1
-```
+# WORKING EXPERIENCE
+## Unity Health (Ori Rotstein Lab, University of Toronto)
+Sep 2023 – Present
+Research Assistant
+- Conducted in-depth research on liver ischemic injury, showcasing analytical skills and attention to detail.
+- Led an independent project on C3-CRIG interaction, demonstrating project management, innovation, and strategic planning skills.
+- Gained technical proficiency in histology and liver injury scoring, enhancing problem-solving abilities.
+- Contributed to manuscript writing, highlighting written communication and collaborative skills.
 
-You can add options to executable code like this 
+## Biomedical Incubator Capstone (Erwinia-Phage Therapy, University of Toronto)
+Sep 2023 – Present
+Independent Research Project Contributor
+- Developed bacteriophage cocktails, illustrating creative thinking and experimental design skills.
+- Identified research gaps and commercialization potential, showcasing market analysis and entrepreneurial thinking.
+- Managed the project budget, demonstrating financial planning and resource management capabilities.
+Exhibited leadership, teamwork, and networking skills throughout the project.
 
-```{r}
-#| echo: false
-2 * 2
-```
+## Unity Health (Haibo Zhang Lab, University of Toronto)
+May 2023 – Aug 2023
+Research Assistant 
+- Research Investigated COVID-19 therapies, showing critical thinking and a proactive approach to medical challenges.
+- Managed electronic archives, indicating organizational skills and data management proficiency.
+- Attended lab meetings, showcasing active listening and engagement in collaborative environments.
 
-The `echo: false` option disables the printing of code (only output is displayed).
+PREVENT Project (Karim Keshavjee Lab, University of Toronto)
+Jul 2023 – Sep 2023
+Project Volunteer
+- Contributed to AI-based diabetes prevention software, displaying technical acumen and adaptability.
+- Developed predictive models, showing quantitative analysis skills and the ability to synthesize complex data.
+- Integrated biological data with health records, indicating interdisciplinary knowledge and innovation.
+
+Chinese State Key Lab (Zijie Zhang Lab, Yunnan University)
+Jun 2021 – Aug 2021
+Research Assistant
+- Conducted molecular studies on COVID-19 vaccines, demonstrating scientific rigor and detail-oriented research.
+- Improved communication and teamwork through diverse interactions, enhancing interpersonal skills and cultural awareness.
+
+
+# PUBLICATIONS
+
+Manuscript-in-preparation:
+- Avinash Naraiah Mukkala, Bruna Araujo David, Menachem Ailenberg, Jady Liang, Chirag Manoj Vaswani, Danielle Karakas, William Barbour, Rachel Goldfarb, Avishai Gasner, *Ruoxian Wu*, Kushal Joshi, Raluca Petrut, Sabrina Yang, Colin Graham, Mirjana Jerkic, Eno Hysi, Marc Jeschke, Ana Andreazza, Heyu Ni, Claudia dos Santos, Haibo Zhang, Andras Kapus, Paul Kubes, Ori David Rotstein. "Exogenous mitochondria are phagocytosed by ischemic Kupffer cells, in vivo, to prevent liver injury and inflammation." Has been submitted to the Journal of Experimental Medicine in Feb. 2024.
+
+## EXTRACURRICULAR ACTIVITIES
+University of Toronto Life Sciences Connection (UTLSC) Club
+Sep 2022 – Present
+Vice Minister
+- Leadership & Management: Spearheaded promotional efforts, showcasing leadership through the effective coordination of publicity tasks.
+- Technical Proficiency: Utilized various software such as Microsoft Office Suite, demonstrating adaptability and proficiency in technology for creative solutions.
+- Creative Communication: Designed electronic posters, enhancing the club's visibility and engagement, highlighting creativity and strategic communication skills.
+
+University of Toronto Skule Orchestra Club
+Sep 2021 – May 2023
+Cellist
+- Rehearse Teamwork & Collaboration: Collaborated in a symphonic orchestra setting, fostering teamwork and mutual support among musicians.
+- Cultural Enrichment: Contributed to the enrichment of college life through music, demonstrating commitment to cultural diversity and community engagement.
+- Communication Skills: Engaged with peers with similar interests, showcasing interpersonal communication skills and the ability to work harmoniously in diverse groups.
+
+Mama Pack Organization
+Jun 2019
+Volunteer
+- Social Responsibility: Packed food for children suffering from famine worldwide, reflecting a strong sense of empathy, commitment to social impact, and humanitarian values.
+- Teamwork & Efficiency: Worked effectively in a team to achieve a common goal under time constraints, displaying excellent organizational skills and the ability to work well under pressure.
+
+# AWARDS
+University of Toronto
+Experiential Learning Bursary
+Fall 2023
