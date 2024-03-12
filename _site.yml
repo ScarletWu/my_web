@@ -1,0 +1,17 @@
+project:
+  type: website 
+  output-dir: docs
+
+
+website:
+  title: "Scarlet Ruoxian Wu"
+  navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+
+format:
+  html:
+    theme:sketchy
